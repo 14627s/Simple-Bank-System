@@ -1,5 +1,11 @@
 import json
+import os 
 
+if os.name=='nt':
+    os.system('cls')
+else:
+    os.system('clear')
+    
 def load_accounts(filename):
     try:
         with open(filename, 'r') as f:
