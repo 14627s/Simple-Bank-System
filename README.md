@@ -14,7 +14,7 @@ A basic Python script to manage bank accounts. This application allows users to 
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/simple-bank-system.git
+    git clone https://github.com/14627s/Simple-Bank-System.git
     ```
 
 2. **Navigate to the Project Directory:**
